@@ -1,0 +1,1 @@
+# cropped_face_image
